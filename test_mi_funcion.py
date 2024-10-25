@@ -22,3 +22,4 @@ def test_resta():
     # Afirmaciones nulas y no nulas
     assert resta(0, 0) is not None  # No nulo
     # Elimina o modifica la siguiente línea
+
